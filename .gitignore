@@ -1,0 +1,9 @@
+# Local secrets and common generated files
+.env
+*.log
+__pycache__/
+*.py[cod]
+.cache/
+tmp/
+.DS_Store
+

@@ -1,0 +1,30 @@
+{
+  "dataset_name": "FireDetection box-robust distilled reasoning data",
+  "version": "box_robust",
+  "format": "JSON list with OpenAI-style multimodal conversations",
+  "images_included": false,
+  "image_reference_root": "<KAGGLE_VERSION_DIR>/real_images",
+  "source_dataset": "DetectiumFire",
+  "source_dataset_url": "https://www.kaggle.com/datasets/yimengfuyao/detectiumfire",
+  "license": "CC BY-NC-SA 4.0",
+  "license_file": "../LICENSE",
+  "records": 8848,
+  "positive_records": 7518,
+  "negative_records": 1330,
+  "candidate_boxes": 27509,
+  "reliable_boxes": 13052,
+  "synthetic_distractor_boxes": 14457,
+  "risk_level_counts": {
+    "no_risk": 4023,
+    "low_risk": 136,
+    "medium_risk": 1578,
+    "high_risk": 3111
+  },
+  "excluded_failed_samples": 33,
+  "data_file": "fire_reasoning_distilled_box_robust.json",
+  "data_file_bytes": 47988199,
+  "data_file_sha256": "ebb0b0854ee2465a54935167f96c64d2b0b76f859bbb470c1273c9ca09f587f3",
+  "distractor_seed": 20260910,
+  "box_coordinate_system": "normalized_xyxy_0_1000"
+}
+

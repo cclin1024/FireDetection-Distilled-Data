@@ -1,0 +1,51 @@
+FireDetection Distilled Data License Notice
+
+Except for excluded or separately identified third-party material, the
+distilled annotations and accompanying documentation in this repository are
+licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License
+(CC BY-NC-SA 4.0):
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You may share and adapt the licensed material for non-commercial purposes if
+you provide appropriate attribution, indicate changes, and distribute adapted
+material under the same license. The full legal code is available at:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Required attribution should identify this repository and cite the source
+DetectiumFire dataset and paper:
+
+Zixuan Liu, Siavash H. Khajavi, and Guangkai Jiang. "DetectiumFire: A
+Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire
+Understanding." NeurIPS Datasets and Benchmarks Track, 2025.
+https://openreview.net/forum?id=vhHYTjMt9Z
+
+Scope and third-party material
+--------------------------------
+
+1. DetectiumFire images are not included in this repository and are not
+   relicensed by this notice. Users must obtain them separately.
+2. DetectiumFire combines material from multiple sources. Those source assets
+   remain governed by their original licenses and terms. Its paper lists
+   CC BY-NC-SA 4.0 for web-search and IoT material, CC0 for FIRE Dataset
+   material, CC BY 4.0 for Forest Fire material, and MIT for FireNET material,
+   and recommends restricting the web-collected data to academic use.
+3. This license does not grant trademark, privacy, publicity, or other rights
+   that the repository author does not control.
+4. Teacher responses are AI-generated content produced through an Alibaba
+   Cloud Model Studio inference API. This notice applies only when the service
+   terms governing the account and mode used for generation allow publication
+   and redistribution. In particular, Model Studio trial-service outputs may
+   carry stricter restrictions and must not be treated as covered merely by
+   this repository license.
+5. Construction and distillation source code is not distributed in this
+   repository and is outside the scope of this license.
+
+No warranty
+-----------
+
+To the extent permitted by law, the material is provided as-is, without
+warranties or conditions of any kind. It is research data and must not be used
+as a substitute for professional fire-safety assessment.
